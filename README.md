@@ -1,6 +1,6 @@
 # POE Tactical Thesis — Research Materials
 
-Minimal research materials illustrating the core methodology of a tactical predict–optimize
+Research materials illustrating the core methodology of a tactical predict–optimize
 portfolio thesis: return prediction, portfolio optimization, a plausibility prior over macro states,
 gradient-based and gradient-free scenario samplers with convergence diagnostics, decision probes,
 and post-hoc regime/analogue diagnostics. This is **not** a turnkey reproduction pipeline — data,
